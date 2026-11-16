@@ -1,0 +1,9 @@
+Metric,Value
+Accuracy,0.9122807017543859
+Accuracy Percentage,91.22807017543859
+Precision,0.9444444444444444
+Recall,0.8095238095238095
+F1 Score,0.8717948717948718
+Correct Predictions,104.0
+Incorrect Predictions,10.0
+Total Predictions,114.0
